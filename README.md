@@ -1,0 +1,1 @@
+- Java is a popular programming language that is designed with strong support for OOP principles and leverage key concepts such as encapsulation, inheritance, polymorphism, and abstraction. 
